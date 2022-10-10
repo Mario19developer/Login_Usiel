@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "903414349768",
+    "firebase_url": "https://combustiberry-default-rtdb.firebaseio.com",
+    "project_id": "combustiberry",
+    "storage_bucket": "combustiberry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903414349768:android:bee3c22cfea0e6f489cafd",
+        "android_client_info": {
+          "package_name": "com.example.combustiberry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903414349768-hp8bjh7uc9ljt1v41pram9l2d9836bev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_66IhI-JIGafbICxfmXMPDqzphrpPGSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903414349768-hp8bjh7uc9ljt1v41pram9l2d9836bev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903414349768:android:e2f7ffc7aa34235289cafd",
+        "android_client_info": {
+          "package_name": "com.example.loginusiel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903414349768-hp8bjh7uc9ljt1v41pram9l2d9836bev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_66IhI-JIGafbICxfmXMPDqzphrpPGSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903414349768-hp8bjh7uc9ljt1v41pram9l2d9836bev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

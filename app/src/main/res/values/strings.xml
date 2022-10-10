@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login Usiel</string>
+
+    <string name="prompt_email">Correo Electronico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="login">Login</string>
+    <string name="create_new">Click para registrar</string>
+    <string name="not_register">Ya estoy registrado</string>
+    <string name="name">Nombre Completo</string>
+    <string name="phone_number">Numero de Telefono</string>
+    <string name="register">Registrar</string>
+    <string name="name_error">Porfavor Ingresa tu numbre</string>
+    <string name="phone_error">Porfavor Ingresa tu numero de Telefono</string>
+    <string name="email_error">Porfavor Ingresa tu correo</string>
+    <string name="error_invalid_email">Este correo no es valido</string>
+    <string name="password_error">Porfavor Ingresa tu contraseña</string>
+    <string name="error_invalid_password">La contraseña debe tener mas de 6 carcteres</string>
+
+</resources>
