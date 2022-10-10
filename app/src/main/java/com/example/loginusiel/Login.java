@@ -48,9 +48,10 @@ public class Login extends AppCompatActivity {
         email = findViewById(R.id.Email);
         password = findViewById(R.id.Password);
         login = findViewById(R.id.Login);
-        //registrar = findViewById(R.id.Regitrar);
+        registrar = findViewById(R.id.Regitrar);
         emailError = (TextInputLayout) findViewById(R.id.EmailError);
         passError =  (TextInputLayout) findViewById(R.id.PassError);
+
 
         login.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -59,6 +60,14 @@ public class Login extends AppCompatActivity {
                 passwordl = password.getText().toString();
 
                 validacion();
+            }
+        });
+
+        registrar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Login.this, Registro.class);
+                startActivity(intent);
             }
         });
     }
